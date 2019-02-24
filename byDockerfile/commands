@@ -1,0 +1,5 @@
+#run container ?
+docker run -ti -v /tmp:/tmp ruben-gcloud /bin/bash     
+
+#run container
+docker run --rm -ti ruben-gcloud /bin/bash 
